@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="xenosaster.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="xeno_down0000" x="2234" y="0" width="966" height="923" frameX="2" frameY="-16" frameWidth="970" frameHeight="937"/>
+	<SubTexture name="xeno_down0001" x="1262" y="0" width="972" height="925" frameX="2" frameY="-3" frameWidth="970" frameHeight="937"/>
+	<SubTexture name="xeno_idle0000" x="3200" y="0" width="944" height="943" frameX="2" frameY="-8" frameWidth="941" frameHeight="950"/>
+	<SubTexture name="xeno_idle0001" x="0" y="2600" width="929" height="942" frameX="2" frameY="-9" frameWidth="941" frameHeight="950"/>
+	<SubTexture name="xeno_idle0002" x="3200" y="943" width="936" height="949" frameX="2" frameY="-2" frameWidth="941" frameHeight="950"/>
+	<SubTexture name="xeno_left0000" x="929" y="2600" width="947" height="855" frameX="-5" frameY="-1" frameWidth="956" frameHeight="854"/>
+	<SubTexture name="xeno_left0001" x="1953" y="1687" width="956" height="857" frameX="0" frameY="1" frameWidth="956" frameHeight="854"/>
+	<SubTexture name="xeno_right0000" x="0" y="0" width="1262" height="843" frameX="2" frameY="0" frameWidth="1258" frameHeight="842"/>
+	<SubTexture name="xeno_right0001" x="0" y="843" width="1227" height="844" frameX="-1" frameY="1" frameWidth="1258" frameHeight="842"/>
+	<SubTexture name="xeno_up0000" x="976" y="1687" width="977" height="912" frameX="2" frameY="1" frameWidth="974" frameHeight="910"/>
+	<SubTexture name="xeno_up0001" x="0" y="1687" width="976" height="913" frameX="2" frameY="2" frameWidth="974" frameHeight="910"/>
+</TextureAtlas>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sbf1.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="bf_down0000" x="1658" y="1034" width="829" height="1034" frameX="2" frameY="-65" frameWidth="842" frameHeight="1097"/>
+	<SubTexture name="bf_down0001" x="829" y="0" width="829" height="1034" frameX="2" frameY="-57" frameWidth="842" frameHeight="1097"/>
+	<SubTexture name="bf_idle0000" x="828" y="2068" width="828" height="1034" frameX="-10" frameY="-82" frameWidth="859" frameHeight="1114"/>
+	<SubTexture name="bf_idle0001" x="1656" y="2068" width="828" height="1034" frameX="-15" frameY="-71" frameWidth="859" frameHeight="1114"/>
+	<SubTexture name="bf_idle0002" x="0" y="2068" width="828" height="1034" frameX="2" frameY="-57" frameWidth="859" frameHeight="1114"/>
+	<SubTexture name="bf_left0000" x="829" y="1034" width="829" height="1034" frameX="2" frameY="-57" frameWidth="854" frameHeight="1089"/>
+	<SubTexture name="bf_left0001" x="0" y="1034" width="829" height="1034" frameX="-10" frameY="-57" frameWidth="854" frameHeight="1089"/>
+	<SubTexture name="bf_right0000" x="2487" y="1033" width="828" height="1034" frameX="-8" frameY="-57" frameWidth="852" frameHeight="1089"/>
+	<SubTexture name="bf_right0001" x="1658" y="0" width="829" height="1034" frameX="2" frameY="-57" frameWidth="852" frameHeight="1089"/>
+	<SubTexture name="bf_up0000" x="2487" y="0" width="829" height="1033" frameX="2" frameY="-58" frameWidth="842" frameHeight="1105"/>
+	<SubTexture name="bf_up0001" x="0" y="0" width="829" height="1034" frameX="2" frameY="-73" frameWidth="842" frameHeight="1105"/>
+	<SubTexture name="escape0000" x="2484" y="2467" width="243" height="213" frameX="-128" frameY="-122" frameWidth="501" frameHeight="479"/>
+	<SubTexture name="escape0001" x="2898" y="2068" width="344" height="326" frameX="-76" frameY="-75" frameWidth="501" frameHeight="479"/>
+	<SubTexture name="escape0002" x="2484" y="2068" width="414" height="399" frameX="-41" frameY="-38" frameWidth="501" frameHeight="479"/>
+</TextureAtlas>

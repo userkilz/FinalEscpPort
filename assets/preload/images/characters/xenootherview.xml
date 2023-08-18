@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="xenootherview.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="idle instance 0000" x="0" y="0" width="1558" height="945" frameX="2" frameY="2" frameWidth="1555" frameHeight="951"/>
+	<SubTexture name="idle instance 0001" x="0" y="0" width="1558" height="945" frameX="2" frameY="2" frameWidth="1555" frameHeight="951"/>
+	<SubTexture name="idle instance 0002" x="1558" y="0" width="1558" height="944" frameX="2" frameY="-8" frameWidth="1555" frameHeight="951"/>
+</TextureAtlas>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="insv.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="GF Dancing Beat Hair blowing CAR0000" x="0" y="0" width="4" height="4" frameX="-2" frameY="-15" frameWidth="774" frameHeight="649"/>
+</TextureAtlas>

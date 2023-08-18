@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="grabbf.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="grab0000" x="828" y="872" width="415" height="528" frameX="-178" frameY="-196" frameWidth="591" frameHeight="1661"/>
+	<SubTexture name="grab0001" x="0" y="872" width="414" height="531" frameX="-104" frameY="-193" frameWidth="591" frameHeight="1661"/>
+	<SubTexture name="grab0002" x="853" y="0" width="414" height="531" frameX="-102" frameY="-193" frameWidth="591" frameHeight="1661"/>
+	<SubTexture name="grab0003" x="1267" y="0" width="414" height="531" frameX="-100" frameY="-193" frameWidth="591" frameHeight="1661"/>
+	<SubTexture name="grab0004" x="1267" y="0" width="414" height="531" frameX="-100" frameY="-193" frameWidth="591" frameHeight="1661"/>
+	<SubTexture name="grab0005" x="414" y="872" width="414" height="530" frameX="-105" frameY="-183" frameWidth="591" frameHeight="1661"/>
+	<SubTexture name="grab0006" x="428" y="0" width="425" height="536" frameX="-111" frameY="2" frameWidth="591" frameHeight="1661"/>
+	<SubTexture name="grab0007" x="0" y="0" width="428" height="872" frameX="2" frameY="-790" frameWidth="591" frameHeight="1661"/>
+</TextureAtlas>

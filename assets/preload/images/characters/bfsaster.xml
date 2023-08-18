@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bfsaster.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="bf_down0000" x="802" y="1118" width="399" height="534" frameX="-3" frameY="-1" frameWidth="400" frameHeight="533"/>
+	<SubTexture name="bf_down0001" x="399" y="1118" width="403" height="537" frameX="2" frameY="2" frameWidth="400" frameHeight="533"/>
+	<SubTexture name="bf_idle0000" x="1602" y="0" width="395" height="553" frameX="-8" frameY="0" frameWidth="402" frameHeight="551"/>
+	<SubTexture name="bf_idle0001" x="1602" y="0" width="395" height="553" frameX="-8" frameY="0" frameWidth="402" frameHeight="551"/>
+	<SubTexture name="bf_idle0002" x="1602" y="0" width="395" height="553" frameX="-8" frameY="0" frameWidth="402" frameHeight="551"/>
+	<SubTexture name="bf_idle0003" x="808" y="567" width="394" height="550" frameX="-1" frameY="0" frameWidth="402" frameHeight="551"/>
+	<SubTexture name="bf_idle0004" x="1602" y="553" width="393" height="552" frameX="-2" frameY="2" frameWidth="402" frameHeight="551"/>
+	<SubTexture name="bf_idle0005" x="1205" y="558" width="396" height="552" frameX="1" frameY="2" frameWidth="402" frameHeight="551"/>
+	<SubTexture name="bf_idle0006" x="1205" y="558" width="396" height="552" frameX="1" frameY="2" frameWidth="402" frameHeight="551"/>
+	<SubTexture name="bf_idle0007" x="0" y="1118" width="399" height="547" frameX="2" frameY="-5" frameWidth="402" frameHeight="551"/>
+	<SubTexture name="bf_left0000" x="804" y="0" width="401" height="561" frameX="2" frameY="2" frameWidth="397" frameHeight="557"/>
+	<SubTexture name="bf_left0001" x="1205" y="0" width="397" height="558" frameX="-2" frameY="-1" frameWidth="397" frameHeight="557"/>
+	<SubTexture name="bf_right0000" x="0" y="567" width="405" height="551" frameX="2" frameY="1" frameWidth="401" frameHeight="548"/>
+	<SubTexture name="bf_right0001" x="405" y="567" width="403" height="551" frameX="0" frameY="1" frameWidth="401" frameHeight="548"/>
+	<SubTexture name="bf_up0000" x="0" y="0" width="403" height="567" frameX="2" frameY="2" frameWidth="399" frameHeight="563"/>
+	<SubTexture name="bf_up0001" x="403" y="0" width="401" height="562" frameX="0" frameY="-3" frameWidth="399" frameHeight="563"/>
+</TextureAtlas>
